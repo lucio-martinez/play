@@ -23,7 +23,7 @@ sudo apt-get install python-virtualenv
 
 # Remove possible old environment
 echo " [*] Trying to remove possible obsolete environment.."
-rm $VIRTUALENV
+rm -R $VIRTUALENV
 
 # Generate the virtual environment
 echo " [*] Generating the virtual environment.."
