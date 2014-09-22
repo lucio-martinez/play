@@ -10,6 +10,14 @@ Play is a web server and client to play your music remotelly using your phone, t
  3. Enable the environment with `source bin/activate`
  4. Run the server with `run.py`
 
+Now you can access Play over your local network. 
+
+The default host is `0.0.0.0:3000`. This means you can access it from another decive using the machine IP. For instance, if your machine has the IP `192.168.0.2`, go to `192.168.0.2:3000`.
+
+#Player
+
+The player that this app can control is Rhythmbox. This player comes by default in most recent Ubuntu's versions.
+
 #Copyright
 
 Copyright 2014 Lucio Martínez. 
