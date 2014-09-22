@@ -3,7 +3,7 @@ Run a bottle server to control a player remotelly
 '''
 
 
-from bottle import Bottle, route, run, response, request, view
+from bottle import Bottle, route, run, response, request, view, static_file
 import cherrypy
 from core.player import Player
 from core.system import System
