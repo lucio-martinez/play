@@ -40,9 +40,9 @@ cd $VIRTUALENV
 echo " [*] Enabling environment.."
 source bin/activate
 
-# Install Bootle server
+# Install server
 echo " [*] Installing packages into virtual environment.."
-pip3 install bottle
+pip install bottle cherrypy
 
 echo "Done! The configuration for your server has finished :)"
 echo "Checkout $VIRTUALENV"
