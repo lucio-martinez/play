@@ -16,7 +16,7 @@ The default host is `0.0.0.0:3000`. This means you can access it from another de
 
 #Action
 
-3. 2. 1. [Play](https://vimeo.com/106852957)!
+*3. 2. 1. [Play](https://vimeo.com/106852957)!*
 
 #Player
 
