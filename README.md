@@ -1,7 +1,7 @@
 Play
 ====
 
-Play is a web server and client to play your music remotelly using your phone, tablet or another computer.
+Play is a web [server](https://github.com/lucio-martinez/play-server) and [client](https://github.com/lucio-martinez/play-client) to play your music remotelly on your phone, tablet or another computer.
 
 #Setup
 
@@ -13,6 +13,10 @@ Play is a web server and client to play your music remotelly using your phone, t
 Now you can access Play over your local network. 
 
 The default host is `0.0.0.0:3000`. This means you can access it from another decive using the machine IP. For instance, if your machine has the IP `192.168.0.2`, go to `192.168.0.2:3000`.
+
+#Action
+
+3. 2. 1. [Play](https://vimeo.com/106852957)!
 
 #Player
 
